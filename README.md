@@ -4,3 +4,5 @@ Hello, good evening, and welcome to another Advent of Code repository where you 
 
 - Day 01 [[html]](html/day01.html) [[pdf]](pdf/day01.pdf)
 - Day 02 [[html]](html/day02.html) [[pdf]](pdf/day02.pdf)
+- Day 03 [[html]](html/day03.html) [[pdf]](pdf/day03.pdf)
+- Day 04 [[html]](html/day04.html) [[pdf]](pdf/day04.pdf)
