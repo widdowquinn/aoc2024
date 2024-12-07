@@ -7796,7 +7796,7 @@ a.anchor-link {
     <span class="n">retval</span><span class="p">,</span> <span class="n">retops</span> <span class="o">=</span> <span class="n">test_concat</span><span class="p">(</span><span class="n">vals</span><span class="p">[:],</span> <span class="n">target</span><span class="p">,</span> <span class="n">concat</span><span class="p">(</span><span class="n">curval</span><span class="p">,</span> <span class="n">val</span><span class="p">),</span> <span class="n">ops</span><span class="p">[:])</span>
     <span class="k">if</span> <span class="n">retval</span><span class="p">:</span>  <span class="c1"># Descent found a solution, return it</span>
         <span class="k">return</span> <span class="n">retval</span><span class="p">,</span> <span class="n">retops</span>
-    <span class="n">ops</span><span class="o">.</span><span class="n">pop</span><span class="p">()</span>  <span class="c1"># Discard multiplication</span>
+    <span class="n">ops</span><span class="o">.</span><span class="n">pop</span><span class="p">()</span>  <span class="c1"># Discard concatenation</span>
     <span class="k">return</span> <span class="n">retval</span><span class="p">,</span> <span class="n">ops</span>
 
 
