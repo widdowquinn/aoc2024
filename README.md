@@ -8,3 +8,4 @@ Hello, good evening, and welcome to another Advent of Code repository where you 
 - Day 04 [[html]](html/day04.html) [[pdf]](pdf/day04.pdf)
 - Day 05 [[html]](html/day05.html) [[pdf]](pdf/day05.pdf)
 - Day 06 [[html]](html/day06.html) [[pdf]](pdf/day06.pdf)
+- Day 07 [[html]](html/day07.html) [[pdf]](pdf/day07.pdf)
