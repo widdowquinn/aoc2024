@@ -3,3 +3,6 @@
 
 # iPython/Jupyter files
 .ipynb_checkpoints/
+
+# Emacs temp files
+*~
