@@ -10,4 +10,4 @@
 # AoC tiles
 .aoc_tiles/*
 .aoc-tiles/
-!.aoc_tiles/tiles/*
+!.aoc_tiles/tiles/
