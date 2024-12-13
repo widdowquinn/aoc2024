@@ -6,3 +6,7 @@
 
 # Emacs temp files
 *~
+
+# AoC tiles
+.aoc_tiles/*
+!.aoc_tiles/tiles/
