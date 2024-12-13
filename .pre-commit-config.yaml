@@ -4,7 +4,9 @@ repos:
       hooks:
           - id: aoc-tiles
             args:
-                - --contrast-improvement-type=dark
+                - --contrast-improvement-type=outline
                 - --show-total-stars-for-all-years=no
                 - --overwrite-year=2024
                 - --count-as-solved-when=on_leaderboard
+                - --what-to-show-on-right-side=checkmark
+
