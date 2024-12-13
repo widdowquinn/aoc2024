@@ -14,3 +14,4 @@ Hello, good evening, and welcome to another Advent of Code repository where you 
 - Day 10 [[html]](html/day10.html) [[pdf]](pdf/day10.pdf)
 - Day 11 [[html]](html/day11.html) [[pdf]](pdf/day11.pdf)
 - Day 12 [[html]](html/day12.html) [[pdf]](pdf/day12.pdf)
+- Day 13 [[html]](html/day13.html) [[pdf]](pdf/day13.pdf)
