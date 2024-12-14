@@ -3,48 +3,7 @@
 Hello, good evening, and welcome to another Advent of Code repository where you can watch me crash and burn/run out of free time sometime around day 12 ;)
 
 <!-- AOC TILES BEGIN -->
-<h1 align="center">
-  2024 - 26 ⭐ - #DA5B0B
-</h1>
-<a href="day01.ipynb">
-  <img src=".aoc_tiles/tiles/2024/01.png" width="161px">
-</a>
-<a href="day02.ipynb">
-  <img src=".aoc_tiles/tiles/2024/02.png" width="161px">
-</a>
-<a href="day03.ipynb">
-  <img src=".aoc_tiles/tiles/2024/03.png" width="161px">
-</a>
-<a href="day04.ipynb">
-  <img src=".aoc_tiles/tiles/2024/04.png" width="161px">
-</a>
-<a href="day05.ipynb">
-  <img src=".aoc_tiles/tiles/2024/05.png" width="161px">
-</a>
-<a href="day06.ipynb">
-  <img src=".aoc_tiles/tiles/2024/06.png" width="161px">
-</a>
-<a href="day07.ipynb">
-  <img src=".aoc_tiles/tiles/2024/07.png" width="161px">
-</a>
-<a href="day08.ipynb">
-  <img src=".aoc_tiles/tiles/2024/08.png" width="161px">
-</a>
-<a href="day09.ipynb">
-  <img src=".aoc_tiles/tiles/2024/09.png" width="161px">
-</a>
-<a href="day10.ipynb">
-  <img src=".aoc_tiles/tiles/2024/10.png" width="161px">
-</a>
-<a href="day11.ipynb">
-  <img src=".aoc_tiles/tiles/2024/11.png" width="161px">
-</a>
-<a href="day12.ipynb">
-  <img src=".aoc_tiles/tiles/2024/12.png" width="161px">
-</a>
-<a href="day13.ipynb">
-  <img src=".aoc_tiles/tiles/2024/13.png" width="161px">
-</a>
+
 <!-- AOC TILES END -->
 
 - Day 01 [[html]](html/day01.html) [[pdf]](pdf/day01.pdf)
