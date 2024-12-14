@@ -4,7 +4,7 @@ Hello, good evening, and welcome to another Advent of Code repository where you 
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2024 - 26 ⭐ - Jupyter Notebook
+  2024 - 27 ⭐ - Jupyter Notebook
 </h1>
 <a href="day01.ipynb">
   <img src=".aoc_tiles/tiles/2024/01.png" width="161px">
@@ -44,6 +44,9 @@ Hello, good evening, and welcome to another Advent of Code repository where you 
 </a>
 <a href="day13.ipynb">
   <img src=".aoc_tiles/tiles/2024/13.png" width="161px">
+</a>
+<a href="day14.ipynb">
+  <img src=".aoc_tiles/tiles/2024/14.png" width="161px">
 </a>
 <!-- AOC TILES END -->
 
